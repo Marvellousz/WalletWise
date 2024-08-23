@@ -1,4 +1,4 @@
-# Crypto Wallet Connection Web App
+# WalletWise Web App
 
 ## Overview
 
