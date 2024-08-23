@@ -1,4 +1,3 @@
-```markdown
 # Crypto Wallet Connection Web App
 
 ## Overview
@@ -92,8 +91,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework for styling.
 - [ethers.js](https://docs.ethers.io/v5/) - Library for interacting with the Ethereum blockchain.
 - [Sentry](https://sentry.io/) - Error tracking and monitoring service.
-
----
-
-
-``` 
