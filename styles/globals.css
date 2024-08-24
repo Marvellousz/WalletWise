@@ -3,9 +3,23 @@
 @tailwind utilities;
 
 body {
-  background-color: #f3f4f6; /* Fallback color */
-  background-image: url('/public/image.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+  background-color: #f3f4f6;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+@media (min-width: 768px) {
+  .container {
+    padding: 0 2rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .container {
+    padding: 0 4rem;
+  }
 }
